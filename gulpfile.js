@@ -58,4 +58,4 @@ gulp.task('watch', function() {
 //runs everything
 gulp.task('run', ['inject-js', 'inject-css'], function() {
     console.log('Done');
-})
+});
